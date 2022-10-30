@@ -4,7 +4,7 @@ Computer Vision
 
 https://openmonkeychallenge.com/
 
-### Team
+## Team
 Thomas Byrd byrd0134@umn.edu
 
 Alex Jonas jonas060@d.umn.edu
